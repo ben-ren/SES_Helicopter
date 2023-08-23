@@ -1,0 +1,13 @@
+/*	Name:	Benjamin rendell
+	Number:	44655010 */
+
+body {
+    margin: 0;
+	height: 100%;
+	width: 100%;
+}
+canvas {
+    width: 100%;
+    height: 100%;
+}
+  
